@@ -1,0 +1,143 @@
+{
+  "name": "Quickswap Ads List",
+  "timestamp": "2022-10-11T14:18:11.723Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 16
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "QuickSwap",
+    "default",
+    "ads",
+    "list"
+  ],
+  "ads": [
+    {
+      "data": {
+        "swap": [
+          {
+            "desktopURL": "https://i.imgur.com/02EjkBe.jpg",
+            "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
+            "link": "https://alphaevent.affyn.com/?utm_source=quickswap&utm_medium=cpc&utm_campaign=track_ads&utm_id=1&utm_content=alphaevent"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/CnjFsll.png",
+            "mobileURL": "https://i.imgur.com/nqIbBH9.png",
+            "link": "https://t.me/GooeysP2E"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/8fO7A5a.jpg",
+            "mobileURL": "https://i.imgur.com/AsVGhFh.jpg",
+            "link": "https://quickswap.exchange/#/lend"
+          }
+        ],
+        "pools": [
+          {
+            "desktopURL": "https://i.imgur.com/8Md9PAq.png",
+            "mobileURL": "https://i.imgur.com/pJYF8cS.png",
+            "link": "https://dogechain.quickswap.exchange/#/swap"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/8fO7A5a.jpg",
+            "mobileURL": "https://i.imgur.com/AsVGhFh.jpg",
+            "link": "https://quickswap.exchange/#/lend"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/v5LQ1pH.png",
+            "mobileURL": "https://i.imgur.com/1LXQB37.png",
+            "link": "https://ascendex.com/en/global-digital-asset-platform"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/5k8e7na.png",
+            "mobileURL": "https://i.imgur.com/cQfd3cj.png",
+            "link": "https://info.genius-assets.com/3xUSEoi"
+          }
+        ],
+        "farms": [
+          {
+            "desktopURL": "https://i.imgur.com/IYxaFRs.jpg",
+            "mobileURL": "https://i.imgur.com/q5iP4Pq.jpg",
+            "link": "https://www.wombat.app/"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/kgQQ3QV.png",
+            "mobileURL": "https://i.imgur.com/B5C1rKA.png",
+            "link": "https://www.lumiii.com/"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/h7Wc78L.png",
+            "mobileURL": "https://i.imgur.com/1LXQB37.png",
+            "link": "https://ascendex.com/en/global-digital-asset-platform"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/Jwjw1JI.jpg",
+            "mobileURL": "https://i.imgur.com/4cxFI3E.jpg",
+            "link": "https://www.hanzommorpg.com/"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/gyCpmB4.png",
+            "mobileURL": "https://i.imgur.com/cQfd3cj.png",
+            "link": "https://info.genius-assets.com/3xUSEoi"
+          }
+        ],
+        "dragons": [
+          {
+            "desktopURL": "https://i.imgur.com/02EjkBe.jpg",
+            "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
+            "link": "https://alphaevent.affyn.com/?utm_source=quickswap&utm_medium=cpc&utm_campaign=track_ads&utm_id=1&utm_content=alphaevent"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/fZTdydG.png",
+            "mobileURL": "https://i.imgur.com/nqIbBH9.png",
+            "link": "https://t.me/GooeysP2E"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/8fO7A5a.jpg",
+            "mobileURL": "https://i.imgur.com/AsVGhFh.jpg",
+            "link": "https://quickswap.exchange/#/lend"
+          }
+        ],
+        "lend": [
+          {
+            "desktopURL": "https://i.imgur.com/HL7Pnkm.png",
+            "mobileURL": "https://i.imgur.com/pJYF8cS.png",
+            "link": "https://dogechain.quickswap.exchange/#/swap"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/h7Wc78L.png",
+            "mobileURL": "https://i.imgur.com/1LXQB37.png",
+            "link": "https://ascendex.com/en/global-digital-asset-platform"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/Jwjw1JI.jpg",
+            "mobileURL": "https://i.imgur.com/4cxFI3E.jpg",
+            "link": "https://www.hanzommorpg.com/"
+          }
+        ],
+        "analytics": [
+          {
+            "desktopURL": "https://i.imgur.com/rk67XSB.jpg",
+            "mobileURL": "https://i.imgur.com/IcTJdHQ.jpg",
+            "link": "https://alphaevent.affyn.com/?utm_source=quickswap&utm_medium=cpc&utm_campaign=track_ads&utm_id=1&utm_content=alphaevent"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/uKe55M5.png",
+            "mobileURL": "https://i.imgur.com/nqIbBH9.png",
+            "link": "https://t.me/GooeysP2E"
+          },
+          {
+            "desktopURL": "https://i.imgur.com/ru3F2QN.png",
+            "mobileURL": "https://i.imgur.com/AsVGhFh.jpg",
+            "link": "https://quickswap.exchange/#/lend"
+          }
+        ]
+      },
+      "config": {
+        "autoPlaySpeed": 15000
+      }
+    }
+  ]
+}
