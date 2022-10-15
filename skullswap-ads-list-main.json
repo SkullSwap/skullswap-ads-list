@@ -1,0 +1,38 @@
+{
+  "name": "Quickswap Ads List",
+  "timestamp": "2022-10-11T14:18:11.723Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 16
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "QuickSwap",
+    "default",
+    "ads",
+    "list"
+  ],
+  "ads": [
+    {
+      "data": {
+        "swap": [
+        ],
+        "pools": [
+        ],
+        "farms": [
+        ],
+        "dragons": [
+        ],
+        "lend": [
+        ],
+        "analytics": [
+        ]
+      },
+      "config": {
+        "autoPlaySpeed": 15000
+      }
+    }
+  ]
+}
