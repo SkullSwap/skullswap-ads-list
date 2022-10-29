@@ -1171,7 +1171,7 @@
         "address": "0x6a31Aca4d2f7398F04d9B6ffae2D898d9A8e7938",
         "chainId": 250,
         "decimals": 18,
-        "logoURI": "https://assets.spooky.fi/tokens/wTRTL.png"001
+        "logoURI": "https://assets.spooky.fi/tokens/wTRTL.png"
       },
       {
         "name": "Raid Token",
@@ -1203,7 +1203,7 @@
         "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
         "chainId": 250,
         "decimals": 18,
-        "logoURI": "https://assets.spooky.fi/tokens/DEUS.png"000
+        "logoURI": "https://assets.spooky.fi/tokens/DEUS.png"
       },
       {
         "name": "DEI",
@@ -1211,7 +1211,7 @@
         "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
         "chainId": 250,
         "decimals": 18,
-        "logoURI": "https://assets.spooky.fi/tokens/DEI.png"000
+        "logoURI": "https://assets.spooky.fi/tokens/DEI.png"
       },
       {
         "name": "Fantom Libero Financial Freedom",
