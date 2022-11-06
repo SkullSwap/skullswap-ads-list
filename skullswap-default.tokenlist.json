@@ -1341,21 +1341,13 @@
         "decimals": 18,
         "logoURI": "https://assets.spooky.fi/tokens/DEI.png"
       },
-  {
-        "name": "QuickSwap(NEW)",
-        "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
-        "symbol": "QUICK(NEW)",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
-      },
       {
-        "name": "QuickSwap(OLD)",
-        "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
-        "symbol": "QUICK(OLD)",
+        "name": "SkullSwap Token",
+        "address": "0xeca14fD925F0a64FC041D38653F25539000e7Afa",
+        "symbol": "SKULL",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+        "logoURI": "https://i.ibb.co/JHwVVbr/skull-Logo.png"
       }
     ]
   }
