@@ -1342,8 +1342,8 @@
         "logoURI": "https://assets.spooky.fi/tokens/DEI.png"
       },
       {
-        "name": "SkullSwap Token",
-        "address": "0xeca14fD925F0a64FC041D38653F25539000e7Afa",
+        "name": "Skull Token",
+        "address": "0x9945Dd3eCB40A6b594813f2A4DF1643b10Fe3550",
         "symbol": "SKULL",
         "decimals": 18,
         "chainId": 250,
