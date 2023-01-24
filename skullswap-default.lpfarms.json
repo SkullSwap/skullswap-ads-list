@@ -24,6 +24,7 @@
         "name": "",
         "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
         "rate": 100,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0xfD2213FbCE663Ed4d269C953243B8f07671BA196"
       },
       {
@@ -37,6 +38,7 @@
         "name": "",
         "baseToken": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
         "rate": 100,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0xD9257bE2188A9717A41C75857a221692145eF1BD"
       },
       {
@@ -50,6 +52,7 @@
         "name": "",
         "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
         "rate": 200,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0x4e8F99BBC626449b2715BCbd00438432998Ac4c0"
       },
       {
@@ -63,6 +66,7 @@
         "name": "",
         "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
         "rate": 200,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0xb5c6C0D63F3c10659E5E6fDcE08477bE33E334F5"
       },
       {
@@ -76,6 +80,7 @@
         "name": "",
         "baseToken": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
         "rate": 50,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0x919EEd0B1ff5726E7B511F04bA8ae35e3104D9a3"
       },
       {
@@ -89,6 +94,7 @@
         "name": "",
         "baseToken": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
         "rate": 25,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0xc06c93a2d845d7342ec43e4A48c2b770EBC5EDd6"
       },
       {
@@ -102,6 +108,7 @@
         "name": "",
         "baseToken": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
         "rate": 25,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0x1f8C3DF3ACAe11b711d90F541A635C76A32B5Dc3"
       },
       {
@@ -115,6 +122,7 @@
         "name": "",
         "baseToken": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
         "rate": 50,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0xa5E8cF38e458C10F7865c01269B2c1c25C16F964"
       },
       {
@@ -128,6 +136,7 @@
         "name": "",
         "baseToken": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
         "rate": 50,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0x7b645a3b58Dece27da532ABDd167bF2B4EdB3d01"
       },
       {
@@ -141,6 +150,7 @@
         "name": "",
         "baseToken": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
         "rate": 25,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0xae95AdE86Ee1Aa8D27f3E7B1E9f6dc76878847aa"
       },
       {
@@ -154,6 +164,7 @@
         "name": "",
         "baseToken": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
         "rate": 25,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0x4A7C388B0Be1713800d7A3F6926Ba0c5D002430E"
       },
       {
@@ -167,6 +178,7 @@
         "name": "",
         "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
         "rate": 50,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0x7cbE8c0c43584cc7786BED61d647e23F9965df00"
       },
       {
@@ -180,6 +192,7 @@
         "name": "",
         "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
         "rate": 50,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0xd579063a74Bf14D3Bf658B042C3954a3724Eea42"
       },
       {
@@ -193,6 +206,7 @@
         "name": "",
         "baseToken": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
         "rate": 25,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0xe33b02dFAa7594a66e337e4D6E4f307ed0371e6E"
       },
       {
@@ -206,6 +220,7 @@
         "name": "",
         "baseToken": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
         "rate": 50,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0x2c392e06B20022cFB7fc8FCFE1105C5b3621c23e"
       },
       {
@@ -219,6 +234,7 @@
         "name": "",
         "baseToken": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
         "rate": 100,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0xc9066Ca7CA568Ef3d413eE0Ff78906DC5D8a1F80"
       },
       {
@@ -232,6 +248,7 @@
         "name": "",
         "baseToken": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
         "rate": 25,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
         "pair": "0x7877Be07541562614C813066542F8c05e4DF1EC2"
       }
     ],
