@@ -1348,6 +1348,30 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://i.ibb.co/JHwVVbr/skull-Logo.png"
+      },
+      {
+        "name": "Binance USD",
+        "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://i.ibb.co/Zzd9rF8/binance-usd-busd-logo-A436-FCF6-B6-seeklogo-com.png"
+      },
+      {
+        "name": "Equalizer Token",
+        "address": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
+        "symbol": "EQUAL",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://i.ibb.co/5KPQJGz/3zi-V5h-Bt-400x400-removebg-preview.png"
+      },
+      {
+        "name": "Spiritswap Token",
+        "address": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
+        "symbol": "SPIRIT",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://i.ibb.co/19Bct41/token-icon-m.webp"
       }
     ]
   }
