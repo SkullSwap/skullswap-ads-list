@@ -1372,6 +1372,14 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://i.ibb.co/19Bct41/token-icon-m.webp"
+      },
+      {
+        "name": "ShibaPoConk Token",
+        "address": "0xb715F8DcE2F0E9b894c753711bd55eE3C04dcA4E",
+        "symbol": "CONK",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://i.ibb.co/c3RK6nT/88930195-9561-499d-95bc-fd645c858a00.jpg"
       }
     ]
   }
