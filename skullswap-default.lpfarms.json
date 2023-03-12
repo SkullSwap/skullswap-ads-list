@@ -19,7 +19,7 @@
           "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
         ],
         "stakingRewardAddress": "0x6D11d5b0054163Cb4a79Ff0225a75a8acf05Ef45",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
@@ -33,7 +33,7 @@
           "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
         ],
         "stakingRewardAddress": "0xf45F86d9D23CBAaC8D528165D783b677a70BE4b4",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
@@ -47,7 +47,7 @@
           "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
         ],
         "stakingRewardAddress": "0x00cdEac8B9Ed56163BF36daCAaF1e5Fe3FEb81E4",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
@@ -61,7 +61,7 @@
           "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
         ],
         "stakingRewardAddress": "0xb25dbAF11fAe2A56A3AB584979c7Ac61ab69Bc0f",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
@@ -75,7 +75,7 @@
           "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
         ],
         "stakingRewardAddress": "0xdbEb36Bfad38b22B5b3bC8f9A8F70Fd270984c15",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
@@ -89,7 +89,7 @@
           "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
         ],
         "stakingRewardAddress": "0xB7Ee31B434EeC5B4db3C976440e785F8992Ed594",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
@@ -103,7 +103,7 @@
           "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
         ],
         "stakingRewardAddress": "0xbe043adf7D755e85808a98305fEAEA57B868AdC4",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
@@ -117,7 +117,7 @@
           "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
         ],
         "stakingRewardAddress": "0xd2E99010D9C1F0E82F3c99ed466120b708946198",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
@@ -131,7 +131,7 @@
           "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
         ],
         "stakingRewardAddress": "0x884Bc3C38d3e8D8092Df7F99Abaa5bF3Bb7F1cE6",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
@@ -145,7 +145,7 @@
           "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
         ],
         "stakingRewardAddress": "0x70AfC5aeBd882aC65AA0eA202f9849082375175e",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
@@ -159,7 +159,7 @@
           "0x74b23882a30290451A17c44f4F05243b6b58C76d"
         ],
         "stakingRewardAddress": "0x3A9e8E5896c991e230CefBe8c86ae0417A5C98FE",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
@@ -173,7 +173,7 @@
           "0x321162Cd933E2Be498Cd2267a90534A804051b11"
         ],
         "stakingRewardAddress": "0x0F79aC7b8856b012ed932170C56F6830cC2fcB47",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
@@ -187,7 +187,7 @@
           "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
         ],
         "stakingRewardAddress": "0xE21e8536346E417811dD9A02DCd850C013ABd111",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
@@ -201,7 +201,7 @@
           "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
         ],
         "stakingRewardAddress": "0xD946eadb16Eb84de68438F0225d975Db90f4eF24",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
@@ -215,7 +215,7 @@
           "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
         ],
         "stakingRewardAddress": "0xa3721bB6273693ee39170F02648DCe6EBa833800",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
@@ -229,7 +229,7 @@
           "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b"
         ],
         "stakingRewardAddress": "0xf2A97858eF881cB9B2858c97df092e8b55b27161",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
@@ -243,7 +243,7 @@
           "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
         ],
         "stakingRewardAddress": "0x69A115eA709E025fa9bcb1164f3bA8edF636139f",
-        "ended": false,
+        "ended": true,
         "lp": "",
         "name": "",
         "baseToken": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
