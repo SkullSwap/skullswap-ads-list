@@ -1380,6 +1380,22 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://i.ibb.co/c3RK6nT/88930195-9561-499d-95bc-fd645c858a00.jpg"
+      },
+      {
+        "name": "Mummy Token",
+        "address": "0x01e77288b38b416F972428d562454fb329350bAc",
+        "symbol": "MMY",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/mummyfinance_32.png"
+      },
+      {
+        "name": "MPX Token",
+        "address": "0x66eEd5FF1701E6ed8470DC391F05e27B1d0657eb",
+        "symbol": "MPX",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/morphextrade_32.png"
       }
     ]
   }
