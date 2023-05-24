@@ -1,0 +1,35 @@
+{
+    "name": "SkullSwap LP Farms",
+    "timestamp": "2023-05-24T02:48:18.135Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 25
+    },
+    "tags": {},
+    "logoURI": "https://i.ibb.co/BrJtQBC/0xeca14fd925f0a64fc041d38653f25539000e7afa.png",
+    "keywords": [
+      "skullswap",
+      "default"
+    ],
+    "active": [
+    {
+        "tokens": [
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+          "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
+        ],
+        "stakingRewardAddress": "0x6D11d5b0054163Cb4a79Ff0225a75a8acf05Ef45",
+        "ended": true,
+        "lp": "",
+        "name": "",
+        "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+        "rate": 60,
+        "rewardToken": "0x3C69f76B462201572e8d40c2C90e78Fd95395AF6",
+        "pair": "0xfD2213FbCE663Ed4d269C953243B8f07671BA196",
+        "poolId": 0
+      }
+    ],
+    "closed": [
+    ]
+  }
+  
