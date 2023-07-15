@@ -1396,6 +1396,46 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://ftmscan.com/token/images/morphextrade_32.png"
+      },
+      {
+        "name": "Axelar USDC Token",
+        "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+        "symbol": "axlUSDC",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/USDC.png"
+      },
+      {
+        "name": "Axelar USDT Token",
+        "address": "0xd226392C23fb3476274ED6759D4a478db3197d82",
+        "symbol": "axlUSDT",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/fUSDT.png"
+      },
+      {
+        "name": "Axelar BTC Token",
+        "address": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
+        "symbol": "axlBTC",
+        "decimals": 8,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/wBTC.png"
+      },
+      {
+        "name": "Axelar ETH Token",
+        "address": "0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B",
+        "symbol": "axlETH",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/wETH.png"
+      },
+      {
+        "name": "Axelar DAI Token",
+        "address": "0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF",
+        "symbol": "axlDAI",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/DAI.png"
       }
     ]
   }
